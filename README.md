@@ -8,4 +8,4 @@ A website on Animal Sanctuary
 ![demo4](https://github.com/SomnathBiswas/Community_Website/assets/108716703/1ddb84fe-adda-43cb-b028-ff35e1283900)
 ![demo 5](https://github.com/SomnathBiswas/Community_Website/assets/108716703/bf6635a6-7d91-4428-934b-41a8a1b8e078)
 
-If css needed mail 📧✉ me on somnathbiswas576@gmail.com ☺
+If css&js needed mail 📧✉ me on somnathbiswas576@gmail.com ☺
